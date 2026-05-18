@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
 // When running locally, point to localhost. When deploying to production, replace with your Render link!
-const API_BASE = "https://ecommerce-admin-api-xxxx.onrender.com/api";
+const API_BASE = "https://ecommerce-admin-api-ak9k.onrender.com/api";
 
 export default function App() {
   const [token, setToken] = useState(localStorage.getItem('token') || '');
