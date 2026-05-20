@@ -1,3 +1,11 @@
+# E-Commerce Admin Dashboard (Frontend)
+
+This is the client-side interface for the full-stack inventory platform. 
+* **Live Demo:** [https://ecommerce-frontend-green-tau.vercel.app/](https://ecommerce-frontend-green-tau.vercel.app/)
+* **Backend Repository:** [Click here to view the Node.js/Express API Code](https://github.com/rohansingh1008/ecommerce-backend.git)
+
+## Tech Stack
+React, Tailwind CSS, Vite, Axios
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
